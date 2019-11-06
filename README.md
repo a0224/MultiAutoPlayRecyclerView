@@ -20,5 +20,7 @@
 ```
 
 ## 效果
-![图片效果](/path/to/photo.jpg "图片效果")
+![图片效果](/temp/photo.jpg "图片效果")
+
+## 视频
 (https://github.com/lwanghaol/MultiAutoPlayRecyclerView/blob/master/temp/video.mp4)
