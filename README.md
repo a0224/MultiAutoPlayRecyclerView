@@ -7,7 +7,7 @@
  strings.add("标签1");
  strings.add("标签2");
  final MultiAutoPlayRecyclerView recyclerView = (MultiAutoPlayRecyclerView) findViewById(R.id.recycler);
- recyclerView.setData(strings, 4);
+ recyclerView.setData(strings, 4); //最大的期望行数（会根据数据的多少自动显示行数）
  recyclerView.setOnAutoPlayClickListener(new AutoPlayAdapter.OnAutoPlayClickListener() {
        @Override
        public void onClick(View view, int position, String data) {
@@ -23,4 +23,4 @@
 ![图片效果](/temp/photo.jpg "图片效果")
 
 ## 视频
-(https://github.com/lwanghaol/MultiAutoPlayRecyclerView/blob/master/temp/video.mp4)
+![Alt text](/temp/video.mp4)
