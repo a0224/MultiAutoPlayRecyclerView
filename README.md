@@ -2,6 +2,7 @@
 标签分组自动横向滚动，并且可手动滑动
 
 ## 用法
+(```)
  final List<String> strings = new ArrayList<>();
  strings.add("标签1");
  strings.add("标签2");
@@ -16,3 +17,7 @@
            Toast.makeText(view.getContext(), "" + position, Toast.LENGTH_SHORT).show();
        }
  });
+(```)
+
+## 效果
+(https://github.com/lwanghaol/MultiAutoPlayRecyclerView/temp/temp.mp4)
