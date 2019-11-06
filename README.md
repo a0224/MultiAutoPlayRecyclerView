@@ -23,4 +23,4 @@
 ![图片效果](/temp/photo.jpg "图片效果")
 
 ## 视频
-![Alt text](/temp/video.mp4)
+(https://github.com/lwanghaol/MultiAutoPlayRecyclerView/blob/master/temp/video.mp4)
